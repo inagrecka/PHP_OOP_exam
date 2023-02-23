@@ -1,0 +1,10 @@
+{
+    "name": "ina-grecka/php-oop-exam",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "InaGrecka\\PhpOopExam\\": "src/"
+        }
+    },
+    "require": {}
+}
